@@ -7,11 +7,11 @@ CDN URL
 
 My CDN
 
-- https://cdn.jsdelivr.net/gh/cyzhangwnebo/cyzhangwenbo.github.io@master/ 
-- https://cdn.jsdelivr.net/gh/cyzhangwnebo/cyzhangwenbo.github.io@hexo/ 
+- https://cdn.jsdelivr.net/gh/cyzhangwenbo/cyzhangwenbo.github.io@master/ 
+- https://cdn.jsdelivr.net/gh/cyzhangwenbo/cyzhangwenbo.github.io@hexo/ 
 
 图片管理及CSS地址
 
-- https://cdn.jsdelivr.net/gh/cyzhangwnebo/cdn@master/bg-image/
+- https://cdn.jsdelivr.net/gh/cyzhangwenbo/cdn@master/bg-image/
 
-  https://cdn.jsdelivr.net/gh/cyzhangwnebo/cdn@master/css/
+  https://cdn.jsdelivr.net/gh/cyzhangwenbo/cdn@master/css/
